@@ -56,7 +56,7 @@
 #formulario{
     background-color: #303030;
     text-align: center;
-    padding: 20px;
+    margin: 10px auto;
 }
 .tituloFormulario{
     font-size: 25px;
