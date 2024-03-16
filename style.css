@@ -5,7 +5,7 @@
 #menuSuperior{
     background-color: #303030;
     width: 1349px;
-    height: 350px;
+    height: 450px;
 }
 .tituloSuperior{
     color: white;
@@ -65,6 +65,9 @@
     padding-top: 55px;
     padding-bottom: 15px;
 }
+.botaoImput{
+    align-items: center;
+}
 input{
     width: 413px;
     height: 53px;
@@ -93,4 +96,7 @@ button:hover{
     transform: translateY(-3px);
     transition-duration: 0.8s;
     box-shadow: 0px 15px 20px #92681a63;
+}
+form{
+    display: inline;
 }
