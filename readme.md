@@ -2,7 +2,7 @@
 
 A escola DNC passou um desafio, que consiste em desenvolver uma Landing Page como portfólio para uma empresa de arquitetura. 
 
-para ver a lange page criada [clique aqui]().
+para ver a lange page criada [clique aqui](https://dnc-projeto-arquitetura.netlify.app/).
 
 para ver a documentação da lista do sheet monkeys [clique aqui](https://docs.google.com/spreadsheets/d/1mRqNvH6VjRBTOLFK0NMDUCDnxa_x0c_xDm3k1BFK1d4/edit#gid=0)
 
